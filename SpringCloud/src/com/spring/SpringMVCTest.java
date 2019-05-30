@@ -2,8 +2,7 @@ package com.spring;
 
 public class SpringMVCTest {
 	public static void main(String[] args) {
-		System.out.println("SpringMvc");
-		System.out.println("hello");
-		System.out.println(111111);
+		System.out.println(666);
+		System.out.println(888);
 	}
 }
