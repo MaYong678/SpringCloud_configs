@@ -3,6 +3,6 @@ package com.spring;
 public class SpringMVCTest {
 	public static void main(String[] args) {
 		System.out.println(666);
-		System.out.println(999);
+		
 	}
 }
